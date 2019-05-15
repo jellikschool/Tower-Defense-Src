@@ -1,0 +1,154 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "blinn10": {
+            "shader": "Main shader"
+        },
+        "blinn11": {
+            "shader": "Main shader"
+        },
+        "blinn12": {
+            "shader": "Main shader"
+        },
+        "blinn13": {
+            "shader": "Main shader"
+        },
+        "blinn14": {
+            "shader": "Main shader"
+        },
+        "blinn15": {
+            "shader": "Main shader"
+        },
+        "blinn16": {
+            "shader": "Main shader"
+        },
+        "blinn17": {
+            "shader": "Main shader"
+        },
+        "blinn18": {
+            "shader": "Main shader"
+        },
+        "blinn19": {
+            "shader": "Main shader"
+        },
+        "blinn20": {
+            "shader": "Main shader"
+        },
+        "blinn21": {
+            "shader": "Main shader"
+        },
+        "blinn22": {
+            "shader": "Main shader"
+        },
+        "blinn23": {
+            "shader": "Main shader"
+        },
+        "blinn24": {
+            "shader": "Main shader"
+        },
+        "blinn25": {
+            "shader": "Main shader"
+        },
+        "blinn26": {
+            "shader": "Main shader"
+        },
+        "blinn27": {
+            "shader": "Main shader"
+        },
+        "blinn28": {
+            "shader": "Main shader"
+        },
+        "blinn29": {
+            "shader": "Main shader"
+        },
+        "blinn3": {
+            "shader": "Main shader"
+        },
+        "blinn30": {
+            "shader": "Main shader"
+        },
+        "blinn31": {
+            "shader": "Main shader"
+        },
+        "blinn32": {
+            "shader": "Main shader"
+        },
+        "blinn33": {
+            "shader": "Main shader"
+        },
+        "blinn34": {
+            "shader": "Main shader"
+        },
+        "blinn35": {
+            "shader": "Main shader"
+        },
+        "blinn36": {
+            "shader": "Main shader"
+        },
+        "blinn37": {
+            "shader": "Main shader"
+        },
+        "blinn38": {
+            "shader": "Main shader"
+        },
+        "blinn39": {
+            "shader": "Main shader"
+        },
+        "blinn4": {
+            "shader": "Main shader"
+        },
+        "blinn40": {
+            "shader": "Main shader"
+        },
+        "blinn41": {
+            "shader": "Main shader"
+        },
+        "blinn5": {
+            "shader": "Main shader"
+        },
+        "blinn6": {
+            "shader": "Main shader"
+        },
+        "blinn7": {
+            "shader": "Main shader"
+        },
+        "blinn8": {
+            "shader": "Main shader"
+        },
+        "blinn9": {
+            "shader": "Main shader"
+        }
+    }
+}
