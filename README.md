@@ -8,8 +8,8 @@ The Unity project
 
 Veškeré modely a scripta, které jsme vytvořili, se nachází ve složce Assets
 
-Všechny modely, co jsme vlastoručně vytvořili v blenderu nebo v maye, můžete nalést ve složce prefab. 
-Modely ve složce Resource jsou totožne ve složce prefab. Funkce složky je, že modely nacházející se ve složce načítáme v samotném scriptu.
+Všechny modely, co jsme vlastoručně vytvořili v blenderu nebo v maye, můžete nalést ve složce prefab, resource nebo sprites. 
+Skoro všechny modely ve složce Resource jsou totožne ve složce prefab. Funkce složky je, že modely nacházející se ve složce načítáme v samotném scriptu.
 
 Ve složce Resource se nachází i 2D obrázky, které jsou přejaté a následně poupraveny ve Photoshopu. Kromě srdička, černé plochy a penízku se zbylé obrázky ve hře nevyskytují. Jednalo se pouze o testující obrázky.
 
