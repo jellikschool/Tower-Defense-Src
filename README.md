@@ -15,7 +15,7 @@ Ve složce Resource se nachází i 2D obrázky, které jsou přejaté a následn
 
 2D obrázky věží, prodaní a upgradu jsme vytvorili.
 
-
+Složka Sounds obsahuje stáhlý zvuk.
 
 Celý kod se nacházi ve složce scripts (vše až na .meta soubory bylo vytvořeno námi)
 
