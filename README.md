@@ -9,3 +9,6 @@ The Unity project
 Veškeré modely a scripta se nachází ve složce Assets
 
 Celý kod se nacházi ve složce scripts
+
+
+soubory končící připonou .meta jsou vygenerovane herním enginem
