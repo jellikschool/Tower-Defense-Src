@@ -15,13 +15,31 @@ Ve složce Resource se nachází i 2D obrázky, které jsou přejaté a následn
 
 2D obrázky věží, prodaní a upgradu jsme vytvorili.
 
-Složka Sounds obsahuje stáhlý zvuk.
+Složka Sounds obsahuje přejaté zvuky přímo z unity assset store nebo stažené ze stránky https://www.bensound.com/.
 
 Složka Scenes obsahuje, vše co je vidět ve hře (menu, level hry, vitězství, prohra).
 
-
-
 Celý kod se nacházi ve složce scripts (vše až na .meta soubory bylo vytvořeno námi)
+
+ve složce VFX se nacházejí herní efekty jako animace strely atd. (vytvořeno námi v unity)
+
+ve složce shadersSG jsou obrázky a shadery (všechny obrázky v této složce jsou přejaté ale pouze jeden z nich je použit ve hře) (shadery a ostatní jsou vytvořeny námi v unity) 
+
+ve složce rendering jsou vygenerované soubory Unity
+
+ve složce Cloud Asset je veškerý kod a obrazky přejaté z Unity AssetStore
+
+ve složce ProCore je veškerý kod a obrazky přejaté z Unity AssetStore (plugin na upravu terenu) (nebyl použit ve hře)
+
+ složka SubstanceMaterials obsahuje materiály vytvořené v programu SubstancePainter (naše)
+ 
+ složka Materials obsahuje materiáli vytvořené v Unity (naše)
+ 
+ složka scenes obsahuje veškeré sceny hry (naše)
+ 
+ 
+
+
 
 
 soubory končící připonou .meta jsou vygenerovane herním enginem
